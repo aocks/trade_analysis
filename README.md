@@ -14,7 +14,7 @@ the following feaures:
 
 # Download
 
-  1. Windows: [latest release](https://github.com/aocks/trade_analysis/tree/master/files/ox_tan.exe)
+  1. Windows: [latest release](https://github.com/aocks/trade_analysis/raw/master/files/ox_tan.exe)
 
 # Docs
 
