@@ -12,6 +12,18 @@ the following feaures:
      you are doing well or poorly.
  
 
+# Download
 
+  1. Windows: [latest release](https://github.com/aocks/trade_analysis/tree/master/files/ox_tan.exe)
+
+# Docs
+
+  1. [Overview](https://github.com/aocks/trade_analysis/blob/master/docs/Overview.md)
+  2. [Quick
+     Start](https://github.com/aocks/trade_analysis/blob/master/docs/Quickstart_Tutorial.md)
+  3. Full list of documentation:
+     [https://github.com/aocks/trade_analysis/tree/master/docs](https://github.com/aocks/trade_analysis/tree/master/docs)
+ 
+  
 
 
