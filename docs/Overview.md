@@ -54,8 +54,11 @@ and conveniences. For now, however, it may not be as smooth as paid services.
 
 # Getting Started
 
-To get started, you may wish to view the Quickstart Tutorial in the
-help section or go to the main distribution site at
-[https://github.com/aocks/trade_analysis](https://github.com/aocks/trade_analysis)
-for documentation, downloads, forums, and so on.
+To get started, you may wish to view:
+
+  1. The [Quickstart
+  Tutorial](https://github.com/aocks/trade_analysis/blob/master/docs/Overview.md)
+  on the main distribution site at
+[https://github.com/aocks/trade_analysis](https://github.com/aocks/trade_analysis).
+ 2. The help section of the `ox_tan` program.
 

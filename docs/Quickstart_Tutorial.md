@@ -76,6 +76,11 @@ The following describes how you can get started using ox_tan:
         paste that text into a file somewhere and upload it with the
         `upload_trades` command. You should see a message about 3 new
         items being uploaded.
+	  - See the [Trade
+        Confirmations](https://github.com/aocks/trade_analysis/blob/master/docs/Trade_Confirmations.md)
+        section on the [main web
+        site](https://github.com/aocks/trade_analysis) for details
+        about the upload file format.
   2. Now that you have created a note for the trade and uploaded the
      trades, you will want to link your note to your opening trade.
 	  - Go to the main page and click the `show_trades` link (usually this is at http://localhost:6619/ox_tan/show_trades). 
@@ -105,7 +110,7 @@ The following describes how you can get started using ox_tan:
 
 
 
-# Advanced Usage
+# Additional Features
 
 The Basic Instructions above outlined the simplest way to use
 `ox_tan`. There are a number of other features, however, which you may
