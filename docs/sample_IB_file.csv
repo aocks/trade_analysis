@@ -1,4 +1,4 @@
-Symbol,Description,SecurityID,UnderlyingSymbol,Multiplier,Strike,Expiry,Put/Call,TransactionType,TradeID,OrderReference,Buy/Sell,Quantity,Price,Amount,Proceeds,Commission,OrderTime,Date/Time,ReportDate,TradeDate
+Symbol,Description,SecurityID,UnderlyingSymbol,Multiplier,Strike,Expiry,Put/Call,TransactionType,TradeID,OrderReference,Buy/Sell,Quantity,Price,Amount,Proceeds,Commission,OrderTime,Date/Time,ReportDate,TradeDate,OrderID
 TSLA  170929C00357500,TSLA 29SEP17 357.5 C,,TSLA,100,357.5,20170929,C,ExchTrade,12345,,BUY,1,2.8,280,-280,-1.0915,20170926;094002,20170926;094002,20170926,20170926,1
 TSLA,TESLA INC,,,1,,,,ExchTrade,54321,,BUY,200,346.74,69348,-69348,-1,20170926;151813,20170926;151822,20170926,20170926,2
 TSLA,TESLA INC,,,1,,,,ExchTrade,54343,,SELL,-200,346.24,-69248,69248,-2.6234288,20170926;151854,20170926;153017,20170926,20170926,3
