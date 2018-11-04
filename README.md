@@ -28,7 +28,9 @@ your trades. The following are some features provided by `ox_tan`:
      
 # History and Future Plans
 
-The original motivation to develop `ox_tan` was to try out the `Flask` web framework for python in managing personal trades.  Given that it started as a personal hobby project, it is a little rough around the edges at the moment. That said, the project went well and helped in tracking and improving trading performance so it `ox_tan` for free. Hopefully others will find it useful as well. If so, AOCKS may clean up the code and open source `ox_tan` so others can modify and contribute as well.
+The original motivation to develop `ox_tan` was to try out the `Flask` web framework for python in managing personal trades.  Given that it started as a personal hobby project, it is a little rough around the edges at the moment. That said, the project went well and helped in tracking and improving trading performance so it seemed worth releasing publicly. Hopefully others will find it useful as well. If so, AOCKS may clean up the code and open source `ox_tan` so others can modify and contribute as well.
+
+Comments, suggestions, and feedback are welcome at `ox_tan@aocks.com`.
  
  
   
